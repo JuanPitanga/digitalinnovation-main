@@ -7,5 +7,8 @@ fun main() {
 
     ImprimeRelatorioFuncionario.imprime(maria)
 
-    TesteAutenticacao().autentica(maria)
 }
+
+
+
+
